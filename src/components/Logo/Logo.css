@@ -1,0 +1,10 @@
+
+.Tilt{
+    background: linear-gradient(90deg, rgb(0, 240, 148) 0%, rgb(0, 98, 226)100%);
+}
+
+.img-center{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
